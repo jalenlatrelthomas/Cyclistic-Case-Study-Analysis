@@ -71,6 +71,13 @@ Mode of ride length & day of week was calculated for each dataset to aggregate t
 
 The tables below highlight the highest number of rides by day of week for each month and the day of the week that averaged the highest number of rides for each membership type. 
 
+<img width="1006" alt="April   May" src="https://github.com/jalenlatrelthomas/Cyclistic-Case-Study-Analysis/assets/162640411/91892f27-7667-4197-9d0c-11f6175c3693">
+<img width="945" alt="Dec" src="https://github.com/jalenlatrelthomas/Cyclistic-Case-Study-Analysis/assets/162640411/61f5d327-78a3-44c3-b8bc-1c9ef78fc8ae">
+<img width="943" alt="Feb" src="https://github.com/jalenlatrelthomas/Cyclistic-Case-Study-Analysis/assets/162640411/912d20c1-c0e5-4ee7-ab67-2863d14df3d6">
+<img width="955" alt="Jan" src="https://github.com/jalenlatrelthomas/Cyclistic-Case-Study-Analysis/assets/162640411/15e045fa-77be-44db-9896-6cf3aa68ce31">
+<img width="952" alt="June" src="https://github.com/jalenlatrelthomas/Cyclistic-Case-Study-Analysis/assets/162640411/7d78e46b-7646-40c6-be86-8a5fdd867616">
+
+
 **MEMBERSHIP RIDERS** (29.2% Difference)
 Avg. Highest # of Rides by Day of Week: Saturday 16276
 Avg. Lowest # of Rides by Day of Week: Monday 12134
