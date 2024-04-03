@@ -69,7 +69,7 @@ Mode of ride length & day of week was calculated for each dataset to aggregate t
 
 ## Number of Rides
 
-The tables below highlight the highest number of rides by day of week for each month and the day of the week that averaged the highest number of rides for each membership type. 
+The tables below highlight the highest number of rides by day of the week for each month and the day of the week that averaged the highest number of rides for each membership type. Day of the week corresponds with numbers 1 - 7 with Sunday represented as 1, Monday as 2, etc. 
 
 <img width="1006" alt="April   May" src="https://github.com/jalenlatrelthomas/Cyclistic-Case-Study-Analysis/assets/162640411/91892f27-7667-4197-9d0c-11f6175c3693">
 <img width="945" alt="Dec" src="https://github.com/jalenlatrelthomas/Cyclistic-Case-Study-Analysis/assets/162640411/61f5d327-78a3-44c3-b8bc-1c9ef78fc8ae">
